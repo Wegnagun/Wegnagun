@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wegnagun
 - 👀 I’m interested in programming
-- 🌱 I’ve graduated yandex.Practicum and now learning Python and JS (Django, React)
+- 🌱 I’ve learning Python and some JS (Django, React)
 - 📫 How to reach me wegnagun@bk.ru, telegram: @Wegnagun
 
 <!---
